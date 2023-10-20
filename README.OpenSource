@@ -6,6 +6,6 @@
         "Version Number": "8a40f6de57d7b78bc431678d90aa8a570d1631f2",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Tools@8a40f6de57d7b78bc431678d90aa8a570d1631f2",   
-        "Description": "第三方软件vulkan-deps/spirv-tools"           
+        "Description": "第三方软件vulkan-deps/spirv-tools,SPIR-V工具项目为处理SPIR-V模块提供了API和命令"           
     }
 ]
