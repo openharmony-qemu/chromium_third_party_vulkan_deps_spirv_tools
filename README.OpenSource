@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "SPIRV-Tools",                  
+        "License": "Apache-2.0",         
+        "License File": "LICENSE",     
+        "Version Number": "9117e042b93d4ff08d2406542708170f77aaa2a3",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Tools@9117e042b93d4ff08d2406542708170f77aaa2a3",   
+        "Description": "第三方软件vulkan-deps/spirv-tools,SPIR-V工具项目为处理SPIR-V模块提供了API和命令"           
+    }
+]
